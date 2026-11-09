@@ -1,3 +1,7 @@
+![CLAUDE CODE AT ₹0 — Diwali 2026](./assets/diwali-banner.svg)
+
+<p align="center"><a href="https://akhilalladi-code.github.io/diwali-universe/"><strong>🪔 Explore Diwali Universe 2026 · Interactive celebration ↗</strong></a></p>
+
 # Claude Code at ₹0 — Complete Handbook
 
 An interactive technical documentation platform for **Claude Code at ₹0: The Complete AI Coding Agent Handbook**. The site organizes practical guidance on low-cost AI coding workflows, local models, open-source alternatives, and deployment into a searchable, chapter-based learning experience.
